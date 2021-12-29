@@ -1,1 +1,3 @@
-# Analyst
+# Data Analyst
+# Researcher 
+# Academic
